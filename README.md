@@ -1,4 +1,4 @@
-# Genomics-Biopython
+# Biopython-Genomics-Analysis
 Repository codes for genomics analysis using biopython module inside python. Consisting codes in python alongside genbank file materials. Below are the structure inside this repository:
 - orf_and_genome_diagram.py (Identify open reading frames and genome diagram from genbank files input)
 - seq_gc_to_plot (Plot sequence length and %GC of genbank files input)
