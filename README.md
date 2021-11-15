@@ -5,4 +5,4 @@ Repository codes for genomics analysis using biopython module inside python. Con
 - materials folder, consisting of collection of genbank files from NCBI mainly Alphacoronavirus complete genome from various hosts.
 - sequence.gb (transmissible gastroenteritis complete genome genbank file)
 
-This repository derived from final project of genomics courses back in 2019
+This repository derived from final project of genomics courses back in 2019. Created by S. Bernard and M. Aldino
